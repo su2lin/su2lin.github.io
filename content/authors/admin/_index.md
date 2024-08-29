@@ -46,6 +46,6 @@ profiles:
     label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Lin Su is a Leverhulme Early Career Fellow at the University of Cambridge and has been a member of the Reisner Lab in the Department of Chemistry since 2021. He obtained his PhD in biomedical engineering from Southeast University in 2021, where he focused on engineering electron transfer at the interfaces of microorganisms and materials. During his studies, he also visited Prof. Caroline Ajo-Franklin’s group to study synthetic biology in 2016-2020.
+
+Dr Su’s research is primarily focused on engineering electron transfer at the interfaces of microorganisms and materials. He is particularly interested in building biohybrid systems capable of semi-artificial photosynthesis, as well as designing bioelectronic sensors for information exchange. His work has garnered attention for its potential to drive innovation in the field and contribute to the development of sustainable and environmentally friendly technologies.
