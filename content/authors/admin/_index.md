@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 苏林
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lin Su
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lin
+last_name: Su
 
 # Status emoji
 status:
@@ -17,27 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: (soon) Lecturer in Engineering Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cambridge
+    url: https://www.cam.ac.uk/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:linsu.hub@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/su2lin
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/su2lin/
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
+    url: https://scholar.google.com/citations?hl=en&user=XBwfd50AAAAJ&view_op=list_works&sortby=pubdate
   - icon: brands/orcid
     url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
