@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: (soon) Lecturer in Engineering Biology
+role: Leverhulme Early Career Fellow
+# (soon) Lecturer in Engineering Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
