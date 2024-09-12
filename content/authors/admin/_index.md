@@ -32,7 +32,7 @@ profiles:
     url: 'mailto:linsu.hub@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/su2lin
+    url: https://twitter.com/su2lin_SEU
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
