@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me'
+    notice: '© {year} Me, 苏ICP备15048542号-1'
 
 # Localization
 locale:
