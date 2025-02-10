@@ -17,13 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Leverhulme Early Career Fellow
-# (soon) Lecturer in Engineering Biology
+role: Lecturer in Engineering Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cambridge
-    url: https://www.cam.ac.uk/
+  - name: School of Biological and Behavioural Sciences, Queen Mary University of London
+    url: https://www.qmul.ac.uk/sbbs/staff/linsu.html
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,6 +46,6 @@ profiles:
     label: Download my resume
 ---
 
-Dr Lin Su is a Leverhulme Early Career Fellow at the University of Cambridge and has been a member of the Reisner Lab in the Department of Chemistry since 2021. He obtained his PhD in biomedical engineering from Southeast University in 2021, where he focused on engineering electron transfer at the interfaces of microorganisms and materials. During his studies, he also visited Prof. Caroline Ajo-Franklin’s group to study synthetic biology in 2016-2020.
+Dr. Lin Su is a Lecturer in Engineering Biology at the School of Biological and Behavioural Sciences, Queen Mary University of London. Prior to this role, he served as a Leverhulme Early Career Fellow at the University of Cambridge, where he was a member of the Reisner Lab in the Department of Chemistry (2021–2025). During this time, he spearheaded research on bio-hybrid systems for sustainable solar energy conversion. Dr. Su earned his PhD in Biomedical Engineering from Southeast University in 2021, where he pioneered innovative approaches to optimize electron transfer between microorganisms and synthetic materials. As part of his doctoral training, he also conducted collaborative research in synthetic biology with Prof. Caroline Ajo-Franklin’s group (2016–2020).
 
-Dr Su’s research is primarily focused on engineering electron transfer at the interfaces of microorganisms and materials. He is particularly interested in building biohybrid systems capable of semi-artificial photosynthesis, as well as designing bioelectronic sensors for information exchange. His work has garnered attention for its potential to drive innovation in the field and contribute to the development of sustainable and environmentally friendly technologies.
+Dr. Su’s research bridges biology and materials science to address pressing environmental and energy challenges. His group specializes in engineering microbial-material interfaces, with two key focuses: developing biohybrid platforms for semi-artificial photosynthesis to harness solar energy, and creating bioelectronic sensors that enable seamless communication between biological and electronic systems. This work has gained recognition for its potential to advance sustainable technologies, offering novel solutions for clean energy production and next-generation biocompatible devices.
